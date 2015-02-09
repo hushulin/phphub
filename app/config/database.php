@@ -57,7 +57,7 @@ return array(
 			'host'      => getenv('DB_HOST') ?: 'localhost',
 			'database'  => getenv('DB_NAME') ?: 'phphub',
 			'username'  => getenv('DB_USERNAME') ?: 'root',
-			'password'  => getenv('DB_PASSWORD') ?: '' ,
+			'password'  => getenv('DB_PASSWORD') ?: 'hushulin' ,
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
